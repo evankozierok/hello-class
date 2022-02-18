@@ -1,5 +1,3 @@
-# hello-class
-Welcome everybody! Feel free to do whatever you would like to to this repository. Be free, let your heart be light
 
 ## Instructions
 *(copied from the Lesson notebook)*
@@ -12,3 +10,5 @@ Then, run `git clone` and your URL. `cd` into the shiny new `hello-class` reposi
 It's now your job to make some changes. Add a file, change around the files I've got there, edit my README, do whatever you want. **Note:** Remember to run `git add .` if you add any files.
 
 Once you're done, do `git commit` and save your changes, then `git push` them back up to GitHub.
+
+I changed some stuff
